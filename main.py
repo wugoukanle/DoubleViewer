@@ -79,7 +79,6 @@ class PushButton(QtWidgets.QPushButton):
         # event.ignore()
 
 
-
 class MainWindow(QtWidgets.QMainWindow, Ui_MainWindow):
 
     def __init__(self):

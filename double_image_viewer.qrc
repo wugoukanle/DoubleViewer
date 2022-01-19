@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="toolbar">
+    <file>images/logo/next_image.png</file>
+    <file>images/logo/before_image.png</file>
+    <file>images/logo/next.png</file>
+    <file>images/logo/before.png</file>
+  </qresource>
+  <qresource prefix="logo">
+    <file>images/logo/logo.ico</file>
+  </qresource>
+  <qresource prefix="menu"/>
+  <qresource prefix="title"/>
+  <qresource prefix="centerwidget">
+    <file>images/logo/logo_left.jpg</file>
+    <file>images/logo/logo_right.jpg</file>
+  </qresource>
+</RCC>

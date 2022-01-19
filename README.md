@@ -16,3 +16,5 @@ main function:
 ![interface](./images/demo/interface.png)
 
 ![example](./images/demo/example.png)
+
+![hide_side](./images/demo/hide_side.png)

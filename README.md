@@ -13,6 +13,6 @@ main function:
 
 ## software interface
 
-![interface](.\images\demo\interface.png)
+![interface](./images/demo/interface.png)
 
-![](.\images\demo\example.png)
+![example](./images/demo/example.png)

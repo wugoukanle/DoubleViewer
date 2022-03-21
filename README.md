@@ -18,3 +18,7 @@ main function:
 ![example](./images/demo/example.png)
 
 ![hide_side](./images/demo/hide_side.png)
+
+## download exe
+BaiDuYunPan link: https://pan.baidu.com/s/1UBfAtl2nUZrOU1_JZ8vpCQ 
+Fetch Code: c0jz 
